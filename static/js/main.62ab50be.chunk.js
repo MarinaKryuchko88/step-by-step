@@ -1,0 +1,2 @@
+(this["webpackJsonpstep-by-step"]=this["webpackJsonpstep-by-step"]||[]).push([[0],{9:function(e,t,s){"use strict";s.r(t);s(1);var c=s(3),n=s.n(c),p=s(0);var r=function(){return Object(p.jsx)("div",{className:"App",children:Object(p.jsx)("h1",{children:"Hello from react app"})})};n.a.render(Object(p.jsx)(r,{}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.62ab50be.chunk.js.map
